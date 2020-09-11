@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "grey.foodtruck.api.unittest
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "grey.foodtruck.api", "grey.foodtruck.api\grey.foodtruck.api.csproj", "{22C9F942-5ACC-4051-B0D1-6AD02D9193EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "grey.foodtruck.utilities", "grey.foodtruck.utilities\grey.foodtruck.utilities.csproj", "{0779C83D-C4E8-46B1-9F4D-D07F43156A0A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{22C9F942-5ACC-4051-B0D1-6AD02D9193EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22C9F942-5ACC-4051-B0D1-6AD02D9193EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22C9F942-5ACC-4051-B0D1-6AD02D9193EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0779C83D-C4E8-46B1-9F4D-D07F43156A0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0779C83D-C4E8-46B1-9F4D-D07F43156A0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0779C83D-C4E8-46B1-9F4D-D07F43156A0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0779C83D-C4E8-46B1-9F4D-D07F43156A0A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
