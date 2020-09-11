@@ -3,11 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "grey.foodtruck.api.unittest", "grey.foodtruck.api.unittest\grey.foodtruck.api.unittest.csproj", "{EA003330-D9D1-44F0-A124-310CCEBCC678}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "grey.foodtruck.api.unittest", "grey.foodtruck.api.unittest\grey.foodtruck.api.unittest.csproj", "{EA003330-D9D1-44F0-A124-310CCEBCC678}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "grey.foodtruck.api", "grey.foodtruck.api\grey.foodtruck.api.csproj", "{22C9F942-5ACC-4051-B0D1-6AD02D9193EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "grey.foodtruck.utilities", "grey.foodtruck.utilities\grey.foodtruck.utilities.csproj", "{0779C83D-C4E8-46B1-9F4D-D07F43156A0A}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{16A19F6B-76E7-45A9-9760-57B136B0CE7F}"
+	ProjectSection(SolutionItems) = preProject
+		readme.md = readme.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +26,6 @@ Global
 		{22C9F942-5ACC-4051-B0D1-6AD02D9193EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22C9F942-5ACC-4051-B0D1-6AD02D9193EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22C9F942-5ACC-4051-B0D1-6AD02D9193EA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0779C83D-C4E8-46B1-9F4D-D07F43156A0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0779C83D-C4E8-46B1-9F4D-D07F43156A0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0779C83D-C4E8-46B1-9F4D-D07F43156A0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0779C83D-C4E8-46B1-9F4D-D07F43156A0A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
